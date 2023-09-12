@@ -1,0 +1,106 @@
+/*INSTAGRAM LOGIN PAGE*/
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+body{
+    display: flex;
+    justify-content: center;
+    background-color: whitesmoke;
+}
+.box{
+    border: 2px solid rgb(223, 223, 223);
+    width: 380px; 
+    height: 65vh;
+    margin-top: 18%;
+    background-color: white;
+}
+.logo-img{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 200px;
+    margin-top: 25px;
+}
+.input{
+    text-align: center;
+    margin-top: 40px;
+}
+input{
+    width: 280px;
+    padding: 10px;
+    cursor: pointer;
+    background-color: rgb(243, 242, 242);
+    border: 1px solid rgb(184,182,182);
+    border-radius: 5px;
+}
+.pass{
+    margin-top: 8px;
+}
+.login-btn{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.login{
+    background-color: #53b3db;
+    border-radius: 10px;
+    width: 300px;
+    border: none;
+    padding: 10px;
+    color: white;
+    cursor: pointer;
+}
+.hr{
+    display: flex;
+    justify-content: center;
+}
+.hr
+{
+    margin-top: 30px;
+    width: 300px;
+}
+.or
+{
+    display: flex;
+    justify-content: center;
+}
+.or p{
+    text-align: center;
+    background-color: white;
+    padding: 0 25px;
+    margin-top: -10px;
+    cursor: pointer;
+    font-size: 14px;
+}
+.fb-1{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+    margin-top: 40px;
+    font-weight: 700;
+    color: #2e2ed9;
+    font-size: 18px;
+}
+.forgot fb-1{
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 550;
+}
+.box-1{
+    border: 2px solid rgb(223, 222, 222);
+    width: 380px;
+    height: 8vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+.box-1a{
+    color: aqua;
+    font-weight: bold;
+    text-decoration: none;
+}
