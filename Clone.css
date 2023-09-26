@@ -1,6 +1,7 @@
 body{
     display: flex;
     height: 10px;
+    background-color:rgb(231, 189, 241) ;
 }
 .box{
   margin-top: 5px;
